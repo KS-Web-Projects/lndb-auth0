@@ -1,5 +1,6 @@
 import { DownloadRecord, getXataClient } from '@/src/xata'
 import { RecordArray, SelectedPick } from '@xata.io/client';
+import { cache } from 'react';
 
 // server side query
 
