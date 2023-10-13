@@ -1,0 +1,17 @@
+{
+  "id": "mig_ckkafhbbpod1obsacor0",
+  "parentID": "mig_ckkafcgtkl0ehqp54eeg",
+  "checksum": "1:fdeea81748e1ade32e573cbd213fcfd0a8d12a309adb92004df7a2acb3a022fd",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "link",
+          "type": "string",
+          "unique": true
+        },
+        "table": "download"
+      }
+    }
+  ]
+}

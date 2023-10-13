@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Death-Knight-552-s-workspace-hse1fd.us-east-1.xata.sh/db/lndb",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

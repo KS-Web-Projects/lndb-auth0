@@ -1,0 +1,11 @@
+{
+  "id": "mig_ckkaf34gunftthq6jac0",
+  "checksum": "1:b20788b6cc4cf1debcd883beb5d4b97594f5e558260da215be83c5755fae4ce8",
+  "operations": [
+    {
+      "addTable": {
+        "table": "download"
+      }
+    }
+  ]
+}
